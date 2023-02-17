@@ -1,4 +1,3 @@
 # DemoE
 
-Twinkle twinkle
-Little star
+Lets open the song file
